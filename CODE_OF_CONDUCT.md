@@ -8,7 +8,7 @@ and positive experiences for everyone.
 
 ## Our Standards
 
-A primary goal of Co-Log is to make the open source community friendlier.
+The main concern of Co-Log is friendliness and inclusion.
 As such, we are committed to providing a friendly, safe and welcoming environment for all.
 So, we are using the following standards in our organization.
 
